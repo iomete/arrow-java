@@ -611,7 +611,6 @@ under the License.
           <skipPoms>false</skipPoms>
           <generateGitPropertiesFile>true</generateGitPropertiesFile>
           <failOnNoGitDirectory>false</failOnNoGitDirectory>
-          <dotGitDirectory>/Users/mateus/workspace/conductor-ai/repos/arrow-java/.git</dotGitDirectory>
           <gitDescribe>
             <skip>false</skip>
             <always>false</always>
